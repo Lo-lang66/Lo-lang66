@@ -16,4 +16,7 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Lo-lang66/Lightly-.git
+git push -u origin ma in
+git remote add origin https://github.com/Lo-lang66/Lightly-.git
+git branch -M main
 git push -u origin main
